@@ -3,3 +3,4 @@ name = "aa-agentperf-local"
 version = "0.1.0"
 description = "Benchmark local LLM serving by replaying real agent trajectories"
 requires-python = ">=3.10"
+# match the style used in the rest of the module
